@@ -1,0 +1,11 @@
+This webpage should display design ideas incorporating text and images.
+Each design idea is its own "article".
+
+Users should be able to:
+- "flip" through the pages of the designers notebook and see the designs.
+- Bookmark/Favourite designs to return to them easily.
+- Leave comments on design ideas.
+- Say/Vote if they have used the idea in their own work.
+- Contribute their own design ideas to the notebook*
+
+*Ambitious goal, not part of MVP
